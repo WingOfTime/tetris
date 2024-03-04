@@ -1,3 +1,8 @@
+### 修改内容
+fork 并部署
+
+以下均为原版内容未修改
+
 ### English introduction
 Please view [README-EN.md](https://github.com/chvin/react-tetris/blob/master/README-EN.md)
 
